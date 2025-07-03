@@ -1,0 +1,8 @@
+local Players = game:GetService("Players")
+
+-- Nếu đúng place ID thì load script, ngược lại kick
+if game.PlaceId == 11196588443 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bduy2222/Zmt/refs/heads/main/Protected_6122679219226231.lua.txt"))()
+else
+    Players.LocalPlayer:Kick("ZenTra Hub | NOT SUPPORT")
+end
