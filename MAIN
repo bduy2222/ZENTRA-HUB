@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 
 
 if game.PlaceId == 11196588443 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/bduy2222/Zmt/refs/heads/main/Protected_9597602832417912.lua.txt"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bduy2222/Zmt/refs/heads/main/Protected_4429854468801430.lua.txt"))()
 else
     Players.LocalPlayer:Kick("ZenTra Hub | NOT SUPPORT")
 end
